@@ -10,10 +10,6 @@ This project, implemented in Python, focuses on exploring various momentum-based
 
 The project also includes a grid search and k-fold cross-validation for parameter tuning and model validation. The performance of the models was tested on MONK datasets and the CUP dataset.
 
-## Team
-- **Andriani Paolo**
-- **Velardita Michele**
-
 ## Objectives
 The main objectives of this project are:
 1. **Explore momentum-based methods**: Study and compare various optimization techniques.
@@ -52,5 +48,3 @@ Experiments were conducted on a PC with:
 2. Yang, T., Lin, Q., & Li, Z. (2016). Unified Convergence Analysis of Stochastic Momentum Methods for Convex and Non-Convex Optimization. Available from: [arXiv](https://arxiv.org/abs/1604.03257).
 3. Joblib Documentation: [Joblib](https://joblib.readthedocs.io/en/stable/)
 
-## Contact
-Feel free to reach out if you have any questions.
